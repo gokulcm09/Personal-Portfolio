@@ -21461,6 +21461,9 @@ body.loaded {
   .year-of-expariance-wrapper {
     padding: 36px 52px 51px 52px;
   }
+  .about-padding-bottom{
+    padding-bottom: 60px;
+  }
 }
 @media only screen and (max-width: 767px) {
   .year-of-expariance-wrapper {
